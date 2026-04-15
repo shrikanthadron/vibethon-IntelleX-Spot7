@@ -1,0 +1,40 @@
+{
+  "beginner": [
+    {
+      "title": "What is Artificial Intelligence?",
+      "content": "Artificial Intelligence enables machines to perform tasks that usually require human intelligence.",
+      "example": "Examples: Chatbots, Face Unlock, Self Driving Cars"
+    },
+    {
+      "title": "What is Machine Learning?",
+      "content": "Machine Learning is a branch of AI where systems learn patterns from data.",
+      "example": "Example: House Price Prediction"
+    }
+  ],
+
+  "intermediate": [
+    {
+      "title": "Regression",
+      "content": "Regression predicts numeric values.",
+      "example": "Predicting temperature or price"
+    },
+    {
+      "title": "Classification",
+      "content": "Classification predicts labels or categories.",
+      "example": "Spam or Not Spam"
+    }
+  ],
+
+  "advanced": [
+    {
+      "title": "Neural Networks",
+      "content": "Neural networks are inspired by the human brain.",
+      "example": "Used in image recognition"
+    },
+    {
+      "title": "Deep Learning",
+      "content": "Deep learning uses many hidden layers.",
+      "example": "Voice Assistants, Autonomous Cars"
+    }
+  ]
+}

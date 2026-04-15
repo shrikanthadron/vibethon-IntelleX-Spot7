@@ -1,0 +1,40 @@
+{
+  "beginner": [
+    {
+      "question": "AI stands for?",
+      "options": ["Artificial Intelligence", "Auto Input", "Advanced Internet", "Applied Interface"],
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "question": "Which is supervised learning?",
+      "options": ["KMeans", "Linear Regression", "PCA", "Apriori"],
+      "answer": "Linear Regression"
+    }
+  ],
+
+  "intermediate": [
+    {
+      "question": "Regression predicts?",
+      "options": ["Numbers", "Colors", "Shapes", "Nothing"],
+      "answer": "Numbers"
+    },
+    {
+      "question": "Classification predicts?",
+      "options": ["Labels", "Temperature only", "Dates", "Nothing"],
+      "answer": "Labels"
+    }
+  ],
+
+  "advanced": [
+    {
+      "question": "Overfitting means?",
+      "options": ["Memorizing training data", "Fast model", "No data", "No training"],
+      "answer": "Memorizing training data"
+    },
+    {
+      "question": "Deep Learning uses?",
+      "options": ["Many Layers", "No Layers", "Only HTML", "Only Excel"],
+      "answer": "Many Layers"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# File: IntelleX/assets/styles.css
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.main-title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #4F46E5;
+}
+
+.card {
+    padding: 20px;
+    border-radius: 16px;
+    background: #f5f7ff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    margin-bottom: 15px;
+}
