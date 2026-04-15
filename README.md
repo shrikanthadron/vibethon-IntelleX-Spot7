@@ -31,12 +31,6 @@ IntelleX is a web-based platform designed to make Artificial Intelligence and Ma
 * Run and modify sample code
 * Experiment with ML logic
 
-### 🎮 Mini-Games
-
-* Decision Tree Game
-* Classification Challenge
-* Neural Network Basics
-
 ### 📝 Quiz & Assessment
 
 * MCQs
@@ -106,7 +100,7 @@ IntelleX/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/IntelleX.git
+git clone https://github.com/shrikanthadron/IntelleX.git
 cd IntelleX
 ```
 
@@ -142,26 +136,15 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📸 Screenshots
-
-Add screenshots inside the `screenshots/` folder:
-
-* Home Page
-* Quiz Page
-* Dashboard
-* Leaderboard
-
+--
 ---
 
 ## 🎯 Future Enhancements
 
-* OAuth Login (Google/GitHub)
+* OAuth Login 
 * AI Chatbot Mentor
 * More ML Simulations
-* Certificate Generation
-* Cloud Deployment
+
 
 ---
 
